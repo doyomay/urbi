@@ -1,0 +1,88 @@
+@font-face {
+  src: url("http://fonts.googleapis.com/css?family=Open+Sans:400,700");
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+#lideres {
+  background: #fff;
+  float: left;
+}
+#cont figure {
+  background: #003294;
+  height: 3em;
+  width: 5em;
+  display: inline;
+  position: relative;
+}
+#contacto {
+  float: right;
+}
+#contacto figure {
+  margin-right: 30px;
+}
+#fondo {
+  background: #f1f1f1;
+}
+#llamanos {
+  display: inline-block;
+  float: right;
+  position: relative;
+}
+#llamanos a {
+  text-decoration: none;
+}
+#log_menu header figure {
+  width: 10em;
+  height: 6em;
+}
+#log_menu header figure img {
+  width: auto;
+  height: auto;
+}
+#log_menu header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 6em 0 0.5em;
+  float: right;
+  margin-top: 0.8em;
+}
+#log_menu header nav ul li {
+  display: inline-block;
+}
+#log_menu header nav ul li a {
+  padding-top: 2em;
+  color: #2b52a2;
+  margin: 10px;
+  display: block;
+}
+#log_menu header nav ul li a:hover {
+  text-decoration: none;
+}
+#log_menu header nav ul li:hover {
+  background: #eaeaea;
+  border-bottom: 3px solid #003294;
+}
+#desc {
+  display: block;
+}
+#desc h4 {
+  color: #2b52a2;
+}
+#imagen_banner {
+  background: #222;
+}
+#imagen_banner img {
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+.parrafo {
+  text-align: center;
+}
+.features:hover {
+  background: #428bca;
+}
+footer {
+  background: #003294;
+}
